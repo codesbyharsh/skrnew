@@ -1,0 +1,16 @@
+.git
+.DS_Store
+.vscode
+
+# dependencies
+node_modules
+
+# output
+html
+
+# custom views
+views/custom
+
+
+# Build files
+/dist
